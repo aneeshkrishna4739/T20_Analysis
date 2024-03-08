@@ -1,0 +1,47 @@
+p_match:match id
+inns:inning number
+bat:batsman name	
+p_bat:player id	of batter on strike
+team_bat:batting team
+bowl:bowler name
+p_bowl:player id of current bowler
+team_bowl:bowling team
+ball_id:id of each ball
+outcome:no of runs in current ball in text
+score:no of runs in current ball in number
+out:boolean value for dismissal in current delivery	?
+dismissal:type of dismissal
+p_out:player id of dismissed player
+over:over number
+ball:ball count of the current over
+noball:runs scored off no ball
+wide:runs scored off wide
+byes:runs scored off byes
+legbyes:runs scored off legbyes
+cur_bat_runs:current score by the batter	
+cur_bat_bf:ball faced by the batter currently
+cur_bowl_ovr:current over of current bowler(over.ball)	
+cur_bowl_wkts:wickets taken currently by current bowler
+cur_bowl_runs: runs given currently by current bowler
+inns_runs:?
+inns_wkts:?
+inns_balls:
+inns_runs_rem:
+inns_balls_rem:
+inns_rr	inns_rrr:
+target: target score
+max_balls:maximum balls allowed in current innings
+date:current date
+year:current year
+ground:venue ground
+country:venue country
+winner:match winning team
+toss:toss winning team
+competition:competition format
+bat_hand:batting style(right/left)	
+bowl_style:bowling style
+bowl_kind:bowling specialty
+batruns:?
+ballfaced:?	
+bowlruns:?
+bat_out:?
