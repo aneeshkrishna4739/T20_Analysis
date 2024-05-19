@@ -1,13 +1,13 @@
-,inns,ground,average_score
-0,1,"Brian Lara Stadium, Tarouba, Trinidad",140.89
-1,1,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",159.59
-2,1,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",157.4
-3,1,"Kensington Oval, Bridgetown, Barbados",150.04
-4,1,"Providence Stadium, Guyana",145.95
-5,1,"Sir Vivian Richards Stadium, North Sound, Antigua",130.02
-6,2,"Brian Lara Stadium, Tarouba, Trinidad",141.01
-7,2,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",147.7
-8,2,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",147.7
-9,2,"Kensington Oval, Bridgetown, Barbados",144.21
-10,2,"Providence Stadium, Guyana",144.97
-11,2,"Sir Vivian Richards Stadium, North Sound, Antigua",139.94
+,inns,ground,average_score,ground_index
+0,1,"Brian Lara Stadium, Tarouba, Trinidad",140.89,G1
+1,1,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",159.59,G2
+2,1,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",157.4,G3
+3,1,"Kensington Oval, Bridgetown, Barbados",150.04,G4
+4,1,"Providence Stadium, Guyana",145.95,G5
+5,1,"Sir Vivian Richards Stadium, North Sound, Antigua",130.02,G6
+6,2,"Brian Lara Stadium, Tarouba, Trinidad",141.01,G1
+7,2,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",147.7,G2
+8,2,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",147.7,G3
+9,2,"Kensington Oval, Bridgetown, Barbados",144.21,G4
+10,2,"Providence Stadium, Guyana",144.97,G5
+11,2,"Sir Vivian Richards Stadium, North Sound, Antigua",139.94,G6
