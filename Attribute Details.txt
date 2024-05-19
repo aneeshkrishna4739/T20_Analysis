@@ -1,54 +1,53 @@
-p_match:match id
-inns:inning number
-bat:batsman name	
-p_bat:player id	of batter on strike
-team_bat:batting team
-bowl:bowler name
-p_bowl:player id of current bowler
-team_bowl:bowling team
-ball:
-ball_id:id of each ball
-outcome:no of runs in current ball in text
-score:no of runs in current ball in number
-out:boolean value for dismissal in current delivery	?
-dismissal:type of dismissal
-p_out:player id of dismissed player
-over:over number
-ball.1:
-noball:runs scored off no ball
-wide:runs scored off wide
-byes:runs scored off byes
-legbyes:runs scored off legbyes
-cur_bat_runs:current score by the batter	
-cur_bat_bf:ball faced by the batter currentlycur_bowl_ovr:
-cur_bowl_wkts:wickets taken currently by current bowler
-cur_bowl_runs: runs given currently by current bowler
-inns_runs:
-inns_wkts:
-inns_balls:
-inns_runs_rem:
-inns_balls_rem:
-inns_rr:
-inns_rrr:
-target:target score
-max_balls:maximum balls allowed in current innings
-date:current date
-year:current year
-ground:venue ground
-country:venue country
-winner:match winning team
-toss:toss winning team
-competition:competition format
-bat_hand:batting style(right/left)	
-bowl_style:bowling style
-bowl_kind:bowling specialty
-batruns:
-ballfaced:
-bowlruns:
-bat_out:
-wagonX:
+p_match:		match id
+inns:			inning number
+bat:			batsman name	
+p_bat:			player id	of batter on strike
+team_bat:		batting team
+bowl:			bowler name
+p_bowl:			player id of current bowler
+team_bowl:		bowling team
+ball:			ball number of the current over
+ball_id:		id of each ball
+outcome:		no of runs in current ball in text
+score:			no of runs in current ball in number
+out:			boolean value for dismissal in current delivery	?
+dismissal:		type of dismissal
+p_out:			player id of dismissed player
+over:			over number
+noball:			runs scored off no ball
+wide:			runs scored off wide
+byes:			runs scored off byes
+legbyes:		runs scored off legbyes
+cur_bat_runs:	current score by the batter	
+cur_bat_bf:		ball faced by the batter currentlycur_bowl_ovr:
+cur_bowl_wkts:	wickets taken currently by current bowler
+cur_bowl_runs: 	runs given currently by current bowler
+inns_runs:		current team score of the innings
+inns_wkts:		number of wickets fallen currently in the innings
+inns_balls:		number of ball bowled currently in the innings
+inns_runs_rem:	runs remaining to chase(for second innings)
+inns_balls_rem:	balls remaining during the chase
+inns_rr:		current innnings runrate
+inns_rrr:		current innings required runrate
+target:			target score
+max_balls:		maximum balls allowed in the current innings
+date:			current date
+year:			current year
+ground:			venue ground
+country:		venue country
+winner:			match winning team
+toss:			toss winning team
+competition:	competition format
+bat_hand:		batting style(right/left)	
+bowl_style:		bowling style
+bowl_kind:		bowling specialty
+batruns:		runs scored by the batter in current ball
+ballfaced:		legal balls bowled by the bowler in current ball(either 0 or 1)
+bowlruns:		runs conceded by the bowler in current ball
+bat_out:		
+wagonX:			
 wagonY:
-wagonZone:
-pitchLine:category of the pitch line
-pitchLength:category of the pitch length
-shotType:type of the shot played by batsman
+wagonZone:		Area where the batter has hit the ball
+pitchLine:		category of the pitch line
+pitchLength:	category of the pitch length
+shotType:		type of the shot played by batsman
