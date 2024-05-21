@@ -6,8 +6,6 @@ This project analyzes ball-by-ball data from T20 cricket matches across internat
 Dataset: https://www.dropbox.com/s/zqfkinfjmermp4b/t20s_2013-23_mgd.csv?dl=0
 ## Acknowledgements
 
- - [IPL-Analysis](https://github.com/ProblemPilot/IPL-Analysis)
- - [IPL 2024 Analysis](https://twitter.com/ErikaMorris79/status/1769331851036913911?s=20)
  - [Dataset](https://twitter.com/hganjoo_153/status/1691082367236993024)
 
 ## Used By
