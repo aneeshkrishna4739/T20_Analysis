@@ -1,0 +1,71 @@
+,Country,Metric,Value
+0,South Africa,overall,0.22
+1,England,overall,0.03
+2,Australia,overall,0.06
+3,India,overall,0.1
+4,Pakistan,overall,0.23
+5,New Zealand,overall,-0.06
+6,West Indies,overall,-0.24
+7,Afghanistan,overall,-0.04
+8,Bangladesh,overall,-0.21
+9,Sri Lanka,overall,-0.1
+10,South Africa,batting_pp,-0.17
+11,England,batting_pp,0.63
+12,Australia,batting_pp,0.63
+13,India,batting_pp,0.35
+14,Pakistan,batting_pp,0.45
+15,New Zealand,batting_pp,0.0
+16,West Indies,batting_pp,-0.5
+17,Afghanistan,batting_pp,-0.5
+18,Bangladesh,batting_pp,-0.96
+19,Sri Lanka,batting_pp,-0.27
+20,South Africa,batting_mid,0.25
+21,England,batting_mid,0.25
+22,Australia,batting_mid,0.27
+23,India,batting_mid,0.46
+24,Pakistan,batting_mid,0.23
+25,New Zealand,batting_mid,0.39
+26,West Indies,batting_mid,-0.27
+27,Afghanistan,batting_mid,-0.87
+28,Bangladesh,batting_mid,-0.69
+29,Sri Lanka,batting_mid,-0.26
+30,South Africa,batting_death,0.34
+31,England,batting_death,0.11
+32,Australia,batting_death,0.41
+33,India,batting_death,0.58
+34,Pakistan,batting_death,-0.12
+35,New Zealand,batting_death,0.04
+36,West Indies,batting_death,0.64
+37,Afghanistan,batting_death,-0.3
+38,Bangladesh,batting_death,-0.81
+39,Sri Lanka,batting_death,-0.3
+40,South Africa,bowling_pp,0.22
+41,England,bowling_pp,-0.54
+42,Australia,bowling_pp,-0.43
+43,India,bowling_pp,-0.57
+44,Pakistan,bowling_pp,0.4
+45,New Zealand,bowling_pp,-0.32
+46,West Indies,bowling_pp,-0.43
+47,Afghanistan,bowling_pp,0.19
+48,Bangladesh,bowling_pp,0.65
+49,Sri Lanka,bowling_pp,0.45
+50,South Africa,bowling_mid,0.53
+51,England,bowling_mid,-0.21
+52,Australia,bowling_mid,-0.32
+53,India,bowling_mid,-0.25
+54,Pakistan,bowling_mid,0.2
+55,New Zealand,bowling_mid,-0.07
+56,West Indies,bowling_mid,-0.47
+57,Afghanistan,bowling_mid,0.66
+58,Bangladesh,bowling_mid,0.4
+59,Sri Lanka,bowling_mid,-0.16
+60,South Africa,bowling_death,0.16
+61,England,bowling_death,-0.07
+62,Australia,bowling_death,-0.23
+63,India,bowling_death,-0.0
+64,Pakistan,bowling_death,0.24
+65,New Zealand,bowling_death,-0.38
+66,West Indies,bowling_death,-0.39
+67,Afghanistan,bowling_death,0.6
+68,Bangladesh,bowling_death,0.17
+69,Sri Lanka,bowling_death,-0.03

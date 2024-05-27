@@ -1,0 +1,71 @@
+,Country,Metric,Value
+0,Canada,overall,0.72
+1,Ireland,overall,-0.25
+2,Namibia,overall,-0.21
+3,Nepal,overall,0.14
+4,Netherlands,overall,-0.6
+5,Oman,overall,-0.16
+6,Papua New Guinea,overall,0.17
+7,Scotland,overall,-0.19
+8,Uganda,overall,0.46
+9,United States,overall,-0.09
+10,Canada,batting_pp,1.17
+11,Ireland,batting_pp,0.15
+12,Namibia,batting_pp,-0.25
+13,Nepal,batting_pp,-0.21
+14,Netherlands,batting_pp,-0.24
+15,Oman,batting_pp,-0.18
+16,Papua New Guinea,batting_pp,-0.67
+17,Scotland,batting_pp,0.45
+18,Uganda,batting_pp,-0.46
+19,United States,batting_pp,0.29
+20,Canada,batting_mid,0.64
+21,Ireland,batting_mid,0.0
+22,Namibia,batting_mid,-0.58
+23,Nepal,batting_mid,0.36
+24,Netherlands,batting_mid,-0.55
+25,Oman,batting_mid,-0.26
+26,Papua New Guinea,batting_mid,-0.07
+27,Scotland,batting_mid,0.07
+28,Uganda,batting_mid,-0.35
+29,United States,batting_mid,0.13
+30,Canada,batting_death,1.26
+31,Ireland,batting_death,-0.24
+32,Namibia,batting_death,0.42
+33,Nepal,batting_death,0.81
+34,Netherlands,batting_death,-0.58
+35,Oman,batting_death,-0.68
+36,Papua New Guinea,batting_death,-0.19
+37,Scotland,batting_death,-0.3
+38,Uganda,batting_death,-0.22
+39,United States,batting_death,0.28
+40,Canada,bowling_pp,1.02
+41,Ireland,bowling_pp,-0.17
+42,Namibia,bowling_pp,-0.31
+43,Nepal,bowling_pp,-0.43
+44,Netherlands,bowling_pp,-0.71
+45,Oman,bowling_pp,0.28
+46,Papua New Guinea,bowling_pp,0.99
+47,Scotland,bowling_pp,-0.3
+48,Uganda,bowling_pp,1.33
+49,United States,bowling_pp,-0.1
+50,Canada,bowling_mid,-0.49
+51,Ireland,bowling_mid,-0.91
+52,Namibia,bowling_mid,-0.23
+53,Nepal,bowling_mid,0.47
+54,Netherlands,bowling_mid,-0.84
+55,Oman,bowling_mid,0.06
+56,Papua New Guinea,bowling_mid,0.51
+57,Scotland,bowling_mid,-0.61
+58,Uganda,bowling_mid,1.17
+59,United States,bowling_mid,-0.27
+60,Canada,bowling_death,0.73
+61,Ireland,bowling_death,-0.31
+62,Namibia,bowling_death,-0.28
+63,Nepal,bowling_death,-0.17
+64,Netherlands,bowling_death,-0.68
+65,Oman,bowling_death,-0.18
+66,Papua New Guinea,bowling_death,0.44
+67,Scotland,bowling_death,-0.43
+68,Uganda,bowling_death,1.29
+69,United States,bowling_death,-0.86
